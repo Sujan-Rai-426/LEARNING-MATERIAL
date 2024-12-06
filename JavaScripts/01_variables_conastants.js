@@ -1,6 +1,6 @@
 
 
-// Variables is used to store the the value 
+// Variables is used to store the the value .
 // ------Variables--------------prefred to use let over var keyword because let is block bounded  
 
 // Variables is declared by using key word by var or let and its value can be changed
