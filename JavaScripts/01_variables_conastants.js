@@ -7,7 +7,7 @@
 
 var x= 20;
 console.log("value of x:",x);
-console.log(`value of x is ${x}\n`); // pass value directly inside the string
+console.log(`value of x is ${x}\n`); // pass value directly inside the strings
 
 
 let y =25;
